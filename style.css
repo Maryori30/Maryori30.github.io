@@ -1,0 +1,41 @@
+body{
+    padding: 20px;
+    background-color:rgb(140, 138, 143) ;
+}
+h1{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(80, 5, 61);
+    font-size:35px;
+    margin-top:12px;
+    text-shadow: 3px 3px 3px rgb(163, 79, 180);
+}
+.img1{
+   border-radius: 20%;
+   box-shadow: 8px 8px 8px rgb(236, 231, 156) ;
+}
+.cuerpo{
+    margin: auto;
+    border:15px rgb(71, 13, 60) ;
+    border-style:double;
+    width: 450px;
+    height: 750px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(245, 139, 227);
+}
+ul li{
+    margin-top:8px;
+    margin-left:120px;
+    border-bottom: 3px rgb(228, 42, 212) groove;
+   
+    
+}
+.img2{
+    float:left;
+    margin-top:90px;
+    
+}
+ul{
+    margin-top:20px;
+}
